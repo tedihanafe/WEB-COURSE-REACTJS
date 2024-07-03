@@ -1,8 +1,9 @@
-# React + Vite
+# web course | pembelajaran kelas online
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+aplikasi ini saya buat dengan bahasa pemograman js dan library reactjs.
+di dalam aplikasi ini ada 5 halaman :
+- halaman home > yang menampilkan semua halaman secara singkat
+- halaman kelas > yang menampilkan semua kelas online course yang ada
+- halaman testimonial > yang menampilkan testimoni dari semua peserta yang pernah mengikuti course
+- halaman faq > menampilkan pertanyaan pertanyaan yang sering di tanyakan
+- halaman syrat & ketetuan > menampilkan informasi sebelum mengikuti course ada syarat & ketentuannya yang berlaku
